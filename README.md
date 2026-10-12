@@ -1,6 +1,7 @@
 **# Profit Analysis #**
-TOOLS 
-Excel, MYSQL Workbench, Power BI
+
+** TOOLS **
+>> Excel, MYSQL Workbench, Power BI
 
 **## Project Workflow ##**
 ** Extracted data from mysql workbench **
